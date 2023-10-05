@@ -13,15 +13,19 @@ To implement this monitoring scheme in your infrastructure, follow these steps:
 Download the JSON Configuration File: Clone or download the JSON configuration file from this repository.
 Import into Grafana: Import the configured JSON file into your Grafana instance
 Configuration: Open the JSON file and configure the following variables according to your setup:
-
+<br><br>
+![image](https://github.com/oziesiek/Grafana/assets/110523018/a747a3f1-aa6d-44b9-b20b-053f34db135d)
+<br>
 Datasource: Specify the appropriate datasource to connect Grafana with your data source.
 Environment: Set the environment (e.g., production, testing) for which you are configuring the monitoring.
 Customization: Feel free to modify the configuration to suit your specific requirements. You can customize the setup to monitor different environments such as production, testing, and more.
 
-Before Configuration:
+Before Configuration:<br>
+![1](https://github.com/oziesiek/Grafana/assets/110523018/5c1ce8c9-7d74-4a85-b6f0-314ed5495312)
+<br>
 
-
-After Configuration:
+After Configuration:<br>
+![2](https://github.com/oziesiek/Grafana/assets/110523018/a923fe12-889a-4b2e-ac67-29fc862aa3a9)
 
 
 Note
